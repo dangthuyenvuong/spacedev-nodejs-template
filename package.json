@@ -1,0 +1,24 @@
+{
+  "name": "spacedev-nodejs-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "",
+    "dev": "",
+    "build": "",
+    "db:make": "",
+    "db:seed": "",
+    "eslint": "",
+    "package": "",
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": ""
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
